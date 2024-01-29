@@ -1,0 +1,22 @@
+.start-div{
+    /* border: 2px solid red; */
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.start-div>h1{
+    font-size: 80px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+.start-div>button{
+    margin-top: 30px;
+    width: 100px;
+    height: 35px;
+    background-color: rgb(206, 135, 135);
+    font-size: large;
+    font-weight: bold;
+    border-radius: 5px;
+}
